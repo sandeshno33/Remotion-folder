@@ -1,0 +1,60 @@
+================================================================================
+REBUZZ ORDERING — 10-SECOND PROMO VOICEOVER SCRIPT
+================================================================================
+Length: 10 Seconds (300 Frames @ 30fps)
+Voice Tone: Premium, Confident, Tech-Forward, Energetic, and Clear
+Delivery Style: Smooth, rhythmic, and perfectly timed to match the visual snaps.
+================================================================================
+
+SCENE 1: THE INTRO
+--------------------------------------------------------------------------------
+Timing: 0.0s – 1.6s (Frames 0 – 50)
+Visuals: Snapping tech brackets lock in. Glowing concentric rings sweep around 
+         the glassmorphic Rebuzz logo. Slogan "REBUZZ ORDERING" slides up.
+Speech: 
+  "Introducing Rebuzz Ordering!"
+Audio Cues:
+  - [Frame 0]: Snap Brackets Whoosh (whoosh.wav)
+  - [Frame 10]: Central Brand Logo Pop (pop.mp3)
+
+
+SCENE 2: THE PAIN & VALUE STATEMENT
+--------------------------------------------------------------------------------
+Timing: 1.6s – 4.3s (Frames 50 – 130)
+Visuals: 
+  - [Frames 55-95]: Glowing stress bolt icon pops. Bold text "DON'T STRESS." rises.
+  - [Frames 95-135]: Rotating clock-hands icon. Bold text "SAVE YOUR TIME." rises.
+Speech: 
+  "Don't stress. Save your time."
+Audio Cues:
+  - [Frame 50]: Pain Statement Entrance Whoosh (whoosh.wav)
+  - [Frame 95]: Clock Settle Ding (ding.wav)
+
+
+SCENE 3: THE MOBILE SOLUTION
+--------------------------------------------------------------------------------
+Timing: 4.3s – 7.5s (Frames 130 – 225)
+Visuals: Premium iOS phone mockup slides up from the bottom, rendering the active 
+         app interface (Pokhara favorites like Breaking Bread, Cheese Shop). 
+         At frame 165, a touch wave ripple selects a card with a border glow.
+Speech: 
+  "And shop for what you need... right from your phone!"
+Audio Cues:
+  - [Frame 135]: Phone Slide-up Whoosh (whoosh.wav)
+  - [Frame 140]: Phone Bezel Snap Pop (pop.mp3)
+  - [Frame 165]: Restaurant Select Tap Ding (ding.wav)
+
+
+SCENE 4: THE CALL TO ACTION (OUTRO)
+--------------------------------------------------------------------------------
+Timing: 7.5s – 10.0s (Frames 225 – 300)
+Visuals: Phone slides down off-screen. A high-tech glassmorphic QR Code card pops 
+         to the center. Headline "ONE APP. ENDLESS POSSIBILITIES." sweeps in 
+         with download instructions below.
+Speech: 
+  "One app. Endless possibilities. Scan to download now!"
+Audio Cues:
+  - [Frame 225]: QR Card Settle Pop (pop.mp3)
+  - [Frame 235]: Tagline Instruction ding (ding.wav)
+  - [Frame 285]: Final Black Fade out (fade to silent)
+================================================================================

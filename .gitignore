@@ -1,0 +1,43 @@
+# Dependencies & build outputs
+node_modules/
+dist/
+out/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# AI tool metadata directories (ignores nested AI configuration directories)
+.agent/
+.agents/
+.claude/
+.cline/
+.codebuddy/
+.codex/
+.commandcode/
+.continue/
+.crush/
+.cursor/
+.factory/
+.gemini/
+.goose/
+.junie/
+.kilocode/
+.kiro/
+.kode/
+.mcpjam/
+.mux/
+.neovate/
+.opencode/
+.openhands/
+.pi/
+.pochi/
+.qoder/
+.qwen/
+.roo/
+.trae/
+.windsurf/
+.zencoder/
